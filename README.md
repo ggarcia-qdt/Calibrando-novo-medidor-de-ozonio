@@ -29,4 +29,4 @@ Tal aplicação de modelo de regressão linear permite a realização de previs�
 
 Mas principalmente, também permite comparar a performance de um novo método recentemente desenvolvido com um método já bem conhecido e aceito pela indústria da qualidade do ar.
 
-Esta mesma estrutura de análise estatística poderia ser replicada para resolução de diversos problemas de negócios em que hajam correlações lineares entre variáveis e que se deseje fazer previsões de cenários específicos.
+Esta mesma estrutura de análise estatística poderia ser replicada para resolução de diversos problemas de negócio em que hajam correlações lineares entre variáveis e que se deseje fazer previsões de cenários específicos.
