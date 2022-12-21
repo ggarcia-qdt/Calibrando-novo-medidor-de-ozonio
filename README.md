@@ -23,7 +23,7 @@ Os dados estão disponíveis na Dissertação de Mestrado, link: https://reposit
 
 Garcia, G. Construção e calibração de amostrador passivo para determinação de ozônio troposférico. Dissertação de Mestrado. Araraquara, 2009.
 
-### Observações finais
+### Principais observações
 
 Tal aplicação de modelo de regressão linear permite a realização de previsões sobre a concentração de um poluente atmosférico.
 
