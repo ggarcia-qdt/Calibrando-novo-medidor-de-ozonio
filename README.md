@@ -1,6 +1,6 @@
 # Calibrando-novo-medidor-de-ozonio
 
-# <font color='royalblue' style='font-size: 30px;'>Calibração de medidor de ozônio (Dissertação de Mestrado)</font>
+# <font color='royalblue' style='font-size: 30px;'>Calibração de medidor de ozônio: aprendizado de máquina aplicado à validação de produto</font>
 
 ## Descrição e objetivos
 
